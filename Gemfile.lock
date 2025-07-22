@@ -80,7 +80,7 @@ GEM
       aws-sdk-sqs (~> 1)
       multi_json (~> 1.12.1)
       thor
-    thor (0.20.3)
+    thor (1.4.0)
 
 PLATFORMS
   ruby
