@@ -9,7 +9,7 @@ terraform {
 
 provider "github" {
   token = var.github_token
-  owner = "thaim-examples"
+  owner = "thaim-sandbox"
 }
 
 variable "github_token" {
